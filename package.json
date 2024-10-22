@@ -4,13 +4,12 @@
     "description": "JavaScript project with 3 modules",
     "main": "index.js",
     "scripts": {
-      "test": "jest",
-      "test:module1": "jest tests/module1.test.js",
-      "test:module2": "jest tests/module2.test.js",
-      "test:module3": "jest tests/module3.test.js"
+        "test": "jest",
+        "test:module1": "jest tests/module1.test.js",
+        "test:module2": "jest tests/module2.test.js",
+        "test:module3": "jest tests/module3.test.js"
     },
     "devDependencies": {
-      "jest": "^29.0.0"
+        "jest": "^29.7.0"
     }
-  }
-  
+}
